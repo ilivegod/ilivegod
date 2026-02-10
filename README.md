@@ -1,5 +1,5 @@
 
-### Hi there 👋
+### Hey 👋
 
 # About Me 🤓:
 
@@ -11,6 +11,6 @@ I'm a fullstack developer, currently working with Javascript, Python, React Nati
 
 # Tech Stack 🖥 :
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,redux,vite,tailwind)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,python,html,css,react,redux,vite,tailwind,fastapi)](https://skillicons.dev)
 
 
