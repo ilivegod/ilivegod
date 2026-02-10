@@ -3,7 +3,7 @@
 
 # About Me 🤓:
 
-I'm a web and mobile developer. I'm currently working with React Native, ReactJS, Fast api and  Tailwind css.
+I'm a fullstack developer, currently working with Javascript, Python, React Native, ReactJS, Fast api and  Tailwind css.
 
 # Socials 🤓:
 [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/bernard-seka-aa9478195/)
