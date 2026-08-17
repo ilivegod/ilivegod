@@ -5,9 +5,6 @@ I'm **Bernard Seka**.
 
 I'm a fullstack developer who likes building things end to end - from the interface down to the API and the data layer. These days I work at the intersection of software engineering and applied AI: document systems, RAG pipelines, and agent workflows that have to be reliable, not just impressive
 
-**Shiori** is my main project: a platform where you upload a client brief, the app indexes it, extracts scope, and helps plan delivery — AI proposes, humans approve.
-
-I'm looking for a 6-month end-of-studies internship from **September 2026**.
 
 # Socials
 
